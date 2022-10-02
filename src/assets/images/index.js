@@ -1,0 +1,5 @@
+export { default as LandingPageImage } from "./landingpageImage.png"
+export { default as EventImage} from "./eventImage.png"
+export { default as Location} from "./Location.png"
+export { default as Calendar} from "./Calendar.png"
+export { default as ChevronRight} from "./chevronRight.png"
